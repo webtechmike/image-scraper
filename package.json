@@ -1,0 +1,17 @@
+{
+  "name": "image-scraper",
+  "version": "1.0.0",
+  "description": "A quick configurable image scraper for 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Michael Bergen <webtechmike@gmail.com> (https://webtechmike.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-image-downloader": "^1.0.7",
+    "x-ray": "^2.3.4"
+  }
+}
